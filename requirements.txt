@@ -1,4 +1,6 @@
 pandas
 numpy
-python-ditenv
-#.e -
+python-dotenv
+scikit-learn
+
+#-e . # refers to setup.py file  and it execute entire setuppy code as package
