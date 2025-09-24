@@ -2,5 +2,7 @@ pandas
 numpy
 python-dotenv
 scikit-learn
-
+pymongo[srv]==3.6
+pymongo
+certifi
 #-e . # refers to setup.py file  and it execute entire setuppy code as package
